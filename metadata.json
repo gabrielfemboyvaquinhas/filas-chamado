@@ -1,0 +1,7 @@
+{
+  "name": "QueueFlow AI - Sistema de Gerenciamento de Filas",
+  "description": "Um sistema avançado de gerenciamento de filas com distribuição de tokens, priorização inteligente e análise preditiva de tempo de espera utilizando IA.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
